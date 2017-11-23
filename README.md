@@ -8,8 +8,8 @@ deliverables: 'Pattern library'
 
 ## Overview
 
-- *Continue work on your `dog-rescue-pattern-library`*
-- Using your previously designed patterns create the homepage for your dog rescue.
+- *Continue work on your `ecommerce-pattern-library`*
+- Using your previously designed patterns create the homepage for your eCommerce website.
 - Create a new folder named `pages` and put the single new HTML file in there, name it `index.html` or `home.html`
 - *You should only write HTML, copy-and-paste pattern code & insert appropriate classes like `.grid` and type sizes.*
 - **Your homepage does not get its own CSS file.** If you cannot create the page without writing CSS, your patterns aren’t good enough. Go back to the patterns and add variations. Or make a brand new pattern.
